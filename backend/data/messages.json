@@ -1,0 +1,19 @@
+[
+  {"id":1,"name":"Rahul Sharma","email":"rahul@example.com","subject":"Interview Inquiry","message":"Hello Lokesha, we would love to interview you for a developer role.","submittedAt":"2026-11-16T10:56:59.0620368"},
+  {"id":1,"name":"Hiring Manager","email":"hr@techcorp.com","subject":"Job Inquiry","message":"We viewed your portfolio and would like to schedule an interview.","submittedAt":"2026-11-16T12:48:37.0486412"},
+  {"id":2,"name":"B M LOKESHA","email":"example@gmail.com","subject":"Job Opportunity","message":"I would like to contact you.","submittedAt":"2026-11-16T14:15:00.8544065"},
+  {"id":3,"name":"B M LOKESHA","email":"example@gmail.com","subject":"Job Opportunity","message":"I would like to contact you.","submittedAt":"2026-11-16T14:15:52.2034773"},
+  {"id":4,"name":"B M LOKESHA","email":"example@gmail.com","subject":"Job Opportunity: Senior Developer","message":"Hello,\nI would like to contact you about a role. Here is a note: \\","submittedAt":"2026-11-16T14:16:30.2326143"},
+  {"id":1,"name":"B M LOKESHA","email":"example@gmail.com","subject":"Job Opportunity","message":"I would like to contact you.\nHere is a quote: \"High Quality Development\" & multiline test.","submittedAt":"2026-11-16T14:18:57.3892197"},
+  {"id":2,"name":"B M LOKESHA","email":"example@gmail.com","subject":"Job Opportunity","message":"I would like to contact you.","submittedAt":"2026-11-16T14:23:26.0270653"},
+  {"id":1,"name":"B M LOKESHA","email":"example@gmail.com","subject":"Job Opportunity","message":"I would like to contact you.","submittedAt":"2026-11-16T14:24:49.8727355"},
+  {"id":2,"name":"B M LOKESHA","email":"lokeshbm2003@gmail.com","subject":"CSE","message":"anefljvndflvmldm  mvsadkvadkvmkm kdkmd","submittedAt":"2026-11-16T14:28:35.865613"},
+  {"id":1,"name":"Visitor Name","email":"visitor@gmail.com","subject":"Portfolio Contact","message":"Hello, I would like to contact you.","submittedAt":"2026-11-16T14:53:22.2161272"},
+  {"id":2,"name":"Spam Test","email":"spam@gmail.com","subject":"Spam","message":"Testing rate limiting functionality.","submittedAt":"2026-11-16T14:55:24.9775249"},
+  {"id":3,"name":"Spam Test","email":"spam@gmail.com","subject":"Spam","message":"Testing rate limiting functionality.","submittedAt":"2026-11-16T14:55:25.0632571"},
+  {"id":4,"name":"Spam Test","email":"spam@gmail.com","subject":"Spam","message":"Testing rate limiting functionality.","submittedAt":"2026-11-16T14:55:25.1458297"},
+  {"id":5,"name":"Spam Test","email":"spam@gmail.com","subject":"Spam","message":"Testing rate limiting functionality.","submittedAt":"2026-11-16T14:55:25.2326767"},
+  {"id":1,"name":"B M LOKESHA","email":"lokeshabm2003@gmail.com","subject":"CSE","message":"ygftrexhgv ygv gytut   iyuihbhvyu yuh  gfyc  rf5r f","submittedAt":"2026-11-16T14:58:01.1509576"},
+  {"id":1,"name":"Recruiter Test","email":"recruiter.test@example.com","subject":"Real-Time SMTP Verification","message":"Hello B M LOKESHA, this is a real-time email verification test from your portfolio website.","submittedAt":"2026-11-16T15:39:12.9751107"},
+  {"id":2,"name":"B M LOKESHA","email":"lokeshabm2003@gmail.com","subject":"CSE","message":"nbhb hbuhb uhb h ijnkjnj j kjnkjijnuv","submittedAt":"2026-11-16T15:42:53.4632955"}
+]
